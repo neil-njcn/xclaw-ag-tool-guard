@@ -1,0 +1,2 @@
+[openclaw.skills]
+tool_guard = xclaw_ag_tool_guard:ToolGuardSkill
